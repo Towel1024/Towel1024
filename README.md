@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=180&section=header&text=Towel1024%20Lab%20🚀&fontSize=48&fontAlignY=50&fontColor=8A2BE2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=180&section=header&text=Towel1024%20Lab%20🚀&fontSize=48&fontAlignY=50&fontColor=fff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=4682B4&center=true&width=600&lines=Code.+Create.+Inspire." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FF00&center=true&width=600&lines=Code.+Create.+Inspire." alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -15,13 +15,13 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=60&section=header" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=60&section=header" width="80%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=80&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=80&section=header" width="100%" />
 </p>
 
 ## 💡 About Me
@@ -33,39 +33,39 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=40&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=40&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=60&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=60&section=header" width="100%" />
 </p>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-FF6347?style=for-the-badge&logo=github&logoColor=4682B4"/>
-  <img src="https://img.shields.io/badge/Top%20Stack%20Overflow%20Answerer-4682B4?style=for-the-badge&logo=stackoverflow&logoColor=FF6347"/>
-  <img src="https://img.shields.io/badge/Continuous%20Learner-FFA500?style=for-the-badge&logo=bookstack&logoColor=4682B4"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00FF00?style=for-the-badge&logo=github&logoColor=FF00FF"/>
+  <img src="https://img.shields.io/badge/Top%20Stack%20Overflow%20Answerer-FF00FF?style=for-the-badge&logo=stackoverflow&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learner-FFFF00?style=for-the-badge&logo=bookstack&logoColor=FF00FF"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=40&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=40&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=60&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=60&section=header" width="100%" />
 </p>
 
 ## 🔥 Programmer Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20Coding-4682B4?style=for-the-badge&logo=visualstudiocode&logoColor=FF6347" />
-  <img src="https://img.shields.io/badge/Weekly%20Commits-FF6347?style=for-the-badge&logo=git&logoColor=4682B4" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Active-FFA500?style=for-the-badge&logo=github&logoColor=FF6347" />
+  <img src="https://img.shields.io/badge/Always%20Coding-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/Weekly%20Commits-FF00FF?style=for-the-badge&logo=git&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-FFFF00?style=for-the-badge&logo=github&logoColor=FF00FF" />
 </p>
 
 <p align="center">
@@ -73,37 +73,37 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=40&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=40&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=50&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=50&section=header" width="100%" />
 </p>
 
 ## 🛸 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-4682B4?style=for-the-badge&logo=javascript&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/-TypeScript-FF6347?style=for-the-badge&logo=typescript&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/-Python-FFA500?style=for-the-badge&logo=python&logoColor=4682B4"/>
-  <img src="https://img.shields.io/badge/-Go-4682B4?style=for-the-badge&logo=go&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/-React-FF6347?style=for-the-badge&logo=react&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/-Next.js-FFA500?style=for-the-badge&logo=next.js&logoColor=FF6347"/>
-  <img src="https://img.shields.io/badge/-Node.js-4682B4?style=for-the-badge&logo=node.js&logoColor=FF6347"/>
-  <img src="https://img.shields.io/badge/-Docker-FF6347?style=for-the-badge&logo=docker&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-FFA500?style=for-the-badge&logo=github-actions&logoColor=FF6347"/>
+  <img src="https://img.shields.io/badge/-JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=python&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/-Go-00FF00?style=for-the-badge&logo=go&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-React-FF00FF?style=for-the-badge&logo=react&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-Next.js-FFFF00?style=for-the-badge&logo=next.js&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/-Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=FF00FF"/>
+  <img src="https://img.shields.io/badge/-Docker-FF00FF?style=for-the-badge&logo=docker&logoColor=FFFF00"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-FFFF00?style=for-the-badge&logo=github-actions&logoColor=00FF00"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=30&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=40&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=40&section=header" width="100%" />
 </p>
 
 ## 📊 My GitHub in Numbers
@@ -122,17 +122,17 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/Towel1024?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=4682B4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Towel1024?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=00FF00&style=for-the-badge"/>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=30&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,50:4682B4,100:FFA500&height=120&section=footer&fontColor=8A2BE2&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FF00,100:FFFF00&height=120&section=footer&fontColor=fff&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" alt="footer"/>
   <br/>
   <blockquote>
     <p><strong>“Great code, like great art, inspires and endures.”</strong></p>
